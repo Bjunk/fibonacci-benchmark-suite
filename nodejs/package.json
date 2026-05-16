@@ -1,0 +1,21 @@
+{
+  "name": "fibonacci-benchmark",
+  "version": "1.0.0",
+  "description": "Memory-efficient Fibonacci implementations in Node.js",
+  "main": "fibonacci.js",
+  "scripts": {
+    "start": "node fibonacci.js",
+    "benchmark": "node benchmark.js"
+  },
+  "keywords": [
+    "fibonacci",
+    "benchmark",
+    "recursive",
+    "memoization"
+  ],
+  "author": "Fibonacci Benchmark Suite",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}

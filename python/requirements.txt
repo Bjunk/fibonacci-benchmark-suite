@@ -1,0 +1,2 @@
+# No external dependencies required for this project
+# The Python implementation uses only built-in libraries
